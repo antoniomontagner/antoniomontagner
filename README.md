@@ -1,12 +1,20 @@
 ### Hi there, I'm Antonio S. Montagner 
 
-
-I'm an Cybersecurity lover, always looking for more knowledge in the area of cybersecurity.
+I'm an undergraduate Computer Science student at Federal University of Santa Catarina (UFSC) and a Cybersecurity lover.
 <br>
 <br>
 Currently: Network security at PoP-SC/RNP.
 
 <br>
+
+<div> 
+    <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img height="30em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img height="30em" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img height="30em" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />  
+    <img height="30em" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</div>
 
 ---
 
