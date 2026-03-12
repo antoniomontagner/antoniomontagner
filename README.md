@@ -1,10 +1,6 @@
 ### Hi there, I'm Antonio S. Montagner 
 
-I'm an undergraduate Computer Science student at Federal University of Santa Catarina (UFSC) and a Cybersecurity lover.
-<br>
-<br>
-Currently: Network security at PoP-SC/RNP.
-
+Cybersecurity Analyst | CSIRT | Computer Scientist<br>
 <br>
 
 <div> 
